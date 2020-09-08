@@ -1,6 +1,8 @@
 # Orientation Aware Weapons Detection in Visual Data
 Automatic detection of weapons is significant for improving security and well-being of individuals, nonetheless, it is a difficult task due to large variety of size, shape and appearance of weapons. View point variations and occlusion also are reasons which makes this task more difficult. Further, the current object detection algorithms process rectangular areas, however a slender and long rifle may really cover just a little portion of area and the rest may contain unessential details. To overcome these problem we propose Orientation Aware Weapons Detection algorithm which provides oriented bounding box and improved detection performance of weapons. The proposed model provides orientation not only using angle as classification problem by dividing angle into eight classes but also angle as regression problem.
+
 ![OAWD Architecture](https://github.com/Nazeef-Ul-Haq/Orientation-Aware-Weapons-Detection/master/architecture.jpg)
+
 # Instructions: 
 This code is modified by using Faster RCNN implementation available in Keras. We provide orientation in two ways; one is using angle classification and other is using angle regression.
 Kindly see the system setup details of Faster RCNN [Here](https://github.com/kbardool/keras-frcnn ). This will help in running our model. 

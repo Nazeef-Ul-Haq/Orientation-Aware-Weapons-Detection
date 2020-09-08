@@ -1,0 +1,9 @@
+Test\pic486.jpg,95,82,164,126,1,pistol
+Test\pic803.jpg,88,107,422,173,7,gun
+Test\picc535.jpg,10,93,229,157,1,gun
+Test\picc783.jpg,20,243,928,512,1,gun
+Test\piccc (295).jpg,22,39,264,114,7,gun
+Test\W100.jpg,10,27,138,100,7,pistol
+Test\W1298.jpg,76,0,124,232,2,gun
+Test\W1330.jpg,58,20,113,164,6,pistol
+Test\W1438.jpg,33,42,151,96,7,pistol

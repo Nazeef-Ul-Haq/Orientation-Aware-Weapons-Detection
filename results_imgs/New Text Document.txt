@@ -1,0 +1,1 @@
+Final images will be saved in this folder when you will run test command

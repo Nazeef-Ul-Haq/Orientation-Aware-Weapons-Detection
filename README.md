@@ -6,7 +6,7 @@ Automatic detection of weapons is significant for improving security and well-be
 # Instructions: 
 This code is modified by using Faster RCNN implementation available in Keras. We provide orientation in two ways; one is using angle classification and other is using angle regression.
 Kindly see the system setup details of Faster RCNN [Here](https://github.com/kbardool/keras-frcnn ). This will help in running our model. 
-We provide necessary files to run the test only using our weights. Weights of model can be downloaded from [Here](https://drive.google.com/file/d/12wVZp-MK5C6rCeWogStyWamCtu-vaTQw/view?usp=sharing).
+We provide necessary files to run the test only using our weights. Weights of model can be downloaded from [Here](https://drive.google.com/file/d/12wVZp-MK5C6rCeWogStyWamCtu-vaTQw/view?usp=sharing) and put weights into project directory. After downloading weights go to project directory and run this command given below. 
 ```
 python test_frcnn.py -p Test
 ```

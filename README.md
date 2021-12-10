@@ -15,4 +15,12 @@ python test_frcnn.py -p Test
 
 # Dataset:
 Dataset is available upon request and by filling this google form [Google Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeI_jARiM9Sgjs_dgbfEMHsu_VBuPa_RYZgrdfM8vTL9MnNJQ/viewform?vc=0&c=0&w=1&flr=0&gxids=7757)
+# Citation: 
+Please cite our papers if you use our dataset in your work. 
 
+1. N.U Haq, M.M. Fraz , T.S Hashmi, M. Shahzad, “Orientation Aware Weapons Detection In Visual Data : A Benchmark Dataset“, 2021, eprint arXiv https://arxiv.org/abs/2112.02221
+
+2. Haq, N. U., Hashmi, T. S. S., Fraz, M. M., & Shahzad, M. (2021, May). Rotation Aware Object Detection Model with Applications to Weapons Spotting in Surveillance Videos. In 2021 International Conference on Digital Futures and Transformative Technologies (ICoDT2) (pp. 1-6). IEEE.
+
+3. Hashmi, T. S. S., Haq, N. U., Fraz, M. M., & Shahzad, M. (2021, May). Application of Deep Learning for Weapons Detection in Surveillance Videos. In 2021 International Conference on Digital Futures and Transformative Technologies (ICoDT2) (pp. 1-6). IEEE.
+ 

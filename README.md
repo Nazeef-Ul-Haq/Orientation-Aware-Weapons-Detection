@@ -18,9 +18,11 @@ Dataset is available upon request and by filling this google form [Google Form L
 # Citation: 
 Please cite our papers if you use our dataset in your work. 
 
-1. N.U Haq, M.M. Fraz , T.S Hashmi, M. Shahzad, “Orientation Aware Weapons Detection In Visual Data : A Benchmark Dataset“, 2021, eprint arXiv https://arxiv.org/abs/2112.02221
+1. Haq, N.U., Fraz, M.M., Hashmi, T.S. et al. Orientation aware weapons detection in visual data: a benchmark dataset. Computing (2022). https://doi.org/10.1007/s00607-022-01095-0 
 
-2. Haq, N. U., Hashmi, T. S. S., Fraz, M. M., & Shahzad, M. (2021, May). Rotation Aware Object Detection Model with Applications to Weapons Spotting in Surveillance Videos. In 2021 International Conference on Digital Futures and Transformative Technologies (ICoDT2) (pp. 1-6). IEEE.
+2. N.U Haq, M.M. Fraz , T.S Hashmi, M. Shahzad, “Orientation Aware Weapons Detection In Visual Data : A Benchmark Dataset“, 2021, eprint arXiv https://arxiv.org/abs/2112.02221
 
-3. Hashmi, T. S. S., Haq, N. U., Fraz, M. M., & Shahzad, M. (2021, May). Application of Deep Learning for Weapons Detection in Surveillance Videos. In 2021 International Conference on Digital Futures and Transformative Technologies (ICoDT2) (pp. 1-6). IEEE.
+3. Haq, N. U., Hashmi, T. S. S., Fraz, M. M., & Shahzad, M. (2021, May). Rotation Aware Object Detection Model with Applications to Weapons Spotting in Surveillance Videos. In 2021 International Conference on Digital Futures and Transformative Technologies (ICoDT2) (pp. 1-6). IEEE.
+
+4. Hashmi, T. S. S., Haq, N. U., Fraz, M. M., & Shahzad, M. (2021, May). Application of Deep Learning for Weapons Detection in Surveillance Videos. In 2021 International Conference on Digital Futures and Transformative Technologies (ICoDT2) (pp. 1-6). IEEE.
  
